@@ -16,6 +16,7 @@ https://arxiv.org/abs/2404.07191
 
 ### 🖼 Output
 
+https://github.com/camenduru/InstantMesh-jupyter/assets/54370274/3b25e2fb-9203-4dbe-a202-6205cf2e4438
 
 ### 🏢 Sponsor
 https://modelslab.com
