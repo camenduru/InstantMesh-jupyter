@@ -9,13 +9,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InstantMesh-jupyter/blob/main/InstantMesh_jupyter.ipynb) | InstantMesh_jupyter
 
 ### 🧬 Code
-
+https://github.com/TencentARC/InstantMesh
 
 ### 📄 Paper
-
-
-### 🌐 Page
-
+https://arxiv.org/abs/2404.07191
 
 ### 🖼 Output
 
