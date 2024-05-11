@@ -14,7 +14,7 @@ https://github.com/TencentARC/InstantMesh
 ### 📄 Paper
 https://arxiv.org/abs/2404.07191
 
-### 𝕏 Post
+### 📣 𝕏 Post
 https://twitter.com/camenduru/status/1779931341175288028
 
 ### 🖼 Output
